@@ -1,0 +1,2 @@
+# salifort_motors_turnover_prediction
+Google Advanced Data Analytics Professional Certificate capstone project
